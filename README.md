@@ -1,11 +1,9 @@
-# ds-project-template
-
-Template for creating ds simple projects
+# EDA Project
 
 ## Requirements
 
 - pyenv
-- python==3.11.3
+- python==3.11.4
 
 ## Setup
 
